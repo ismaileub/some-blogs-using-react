@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co.com/2MG4khN/pexels-gsn-travel-28277461.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Lara Green",
+        "author_img": "https://i.ibb.co.com/Vq2Nxj0/boy1.png",
+        "posted_date": "2024-09-01",
+        "reading_time": "5",
+        "hashtags": [
+            "#Fantasy",
+            "#Adventure",
+            "#Magic"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co.com/gy82zcX/hauntingly-beautiful-scene-eerie-mansion-illuminated-night-evoking-mystery-suspense-dark-atmosphere.jpg",
+        "title": "Mystery of the Forgotten City",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/Vq2Nxj0/boy1.png",
+        "posted_date": "2024-09-05",
+        "reading_time": "6",
+        "hashtags": [
+            "#Mystery",
+            "#Thriller",
+            "#Urban"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co.com/Qpr2zm3/embark-journey-through-history-with-exciting-potential-time-travel-concept-time-travel-historical-si.jpg",
+        "title": "Journey Through Time",
+        "author": "Emily White",
+        "author_img": "https://i.ibb.co.com/KhvYGdx/boy2.jpg",
+        "posted_date": "2024-09-10",
+        "reading_time": "4",
+        "hashtags": [
+            "#SciFi",
+            "#Historical",
+            "#Adventure"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co.com/y0d0qN6/studio-image-male-chef-cook-preparing-meals-pan-613910-2794.jpg",
+        "title": "Cooking with Passion",
+        "author": "Marcus Black",
+        "author_img": "https://i.ibb.co.com/XbhGn0c/girl1.jpg",
+        "posted_date": "2024-09-12",
+        "reading_time": "8",
+        "hashtags": [
+            "#Cookbook",
+            "#Food",
+            "#Recipes"
+        ]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co.com/HKCcTrH/painting-man-sitting-field-with-sun-him-783884-464006.jpg",
+        "title": "The Art of Zen",
+        "author": "Sophie Liu",
+        "author_img": "https://i.ibb.co.com/8Bk0z93/girl2.jpg",
+        "posted_date": "2024-09-15",
+        "reading_time": "7",
+        "hashtags": [
+            "#SelfHelp",
+            "#Mindfulness",
+            "#Wellness"
+        ]
+    }
+]
